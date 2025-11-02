@@ -1,13 +1,10 @@
 # 未匹配频道报告
 # 以下频道在源中未找到匹配项
-# 生成时间: 2025-11-03 01:09:50
+# 生成时间: 2025-11-03 02:14:49
 
 ## 模板中未匹配的频道（在源中找不到）
 
-宁夏,#genre#
-吴忠综合,
-
-# 模板中未匹配频道总计: 1
+# 模板中未匹配频道总计: 0
 
 
 ## 源中未匹配的频道（在模板中找不到）
@@ -1490,6 +1487,79 @@ Tastemade,
 MovieSphere,
 The Lego Channel,
 NextUp Live Comedy,
+
+央卫备用,#genre#
+陕西卫视,
+山西卫视,
+
+港澳台AKTV,#genre#
+ROCK Action,
+TVB Plus,
+AXN,
+National Geographic,
+東森新聞,
+Animax(HK),
+NHK東京総合,
+Xite Hits,
+Xite Rock,
+東方衛視國際頻道,
+無線衛星新聞台,
+Celestial Movies,
+CINEMAWORLD,
+FIGHT SPORTS,
+Mediacorp Entertainment Chinese,
+NBA TV,
+Sukan,
+TV9,
+TVB Jade,
+TVB Xing He,
+Unifi Sport,
+曼聯電視頻道,
+朝鮮恩情台,
+ELTV生活英語台,
+三立新聞iNEWS,
+倪珍英語新聞,
+龍華偶像台,
+Astro Football,
+Astro IQIYI,
+Astro QJ,
+Astro 欢喜台,
+NTV NEWS 24,
+viuTV,
+朝鲜恩情台,
+
+百事通,#genre#
+星光影院,
+谍战剧场,
+华语影院,
+全球大片,
+热门剧场,
+宝宝动画,
+电竞天堂,
+热门综艺,
+戏曲精选,
+热播精选,
+看天下精选,
+探索纪录,
+少儿动漫,
+青春动漫,
+百变课堂,
+电子竞技,
+高清娱乐,
+漫游世界,
+健康养生,
+英雄联盟音乐节,
+
+北京频道,#genre#
+北京国际,
+北京文艺,
+北京体育休闲,
+北京影视,
+淘剧场,
+淘娱乐,
+淘BABY,
+萌宠TV,
+北京4K超清,
 
 Albania,#genre#
 Kanali 7 Ⓢ,
@@ -3489,79 +3559,6 @@ Viaggi – Pluto TV,
 House of Docs – Pluto TV,
 Le vite degli altri – Pluto TV,
 
-央卫备用,#genre#
-陕西卫视,
-山西卫视,
-
-港澳台AKTV,#genre#
-ROCK Action,
-TVB Plus,
-AXN,
-National Geographic,
-東森新聞,
-Animax(HK),
-NHK東京総合,
-Xite Hits,
-Xite Rock,
-東方衛視國際頻道,
-無線衛星新聞台,
-Celestial Movies,
-CINEMAWORLD,
-FIGHT SPORTS,
-Mediacorp Entertainment Chinese,
-NBA TV,
-Sukan,
-TV9,
-TVB Jade,
-TVB Xing He,
-Unifi Sport,
-曼聯電視頻道,
-朝鮮恩情台,
-ELTV生活英語台,
-三立新聞iNEWS,
-倪珍英語新聞,
-龍華偶像台,
-Astro Football,
-Astro IQIYI,
-Astro QJ,
-Astro 欢喜台,
-NTV NEWS 24,
-viuTV,
-朝鲜恩情台,
-
-百事通,#genre#
-星光影院,
-谍战剧场,
-华语影院,
-全球大片,
-热门剧场,
-宝宝动画,
-电竞天堂,
-热门综艺,
-戏曲精选,
-热播精选,
-看天下精选,
-探索纪录,
-少儿动漫,
-青春动漫,
-百变课堂,
-电子竞技,
-高清娱乐,
-漫游世界,
-健康养生,
-英雄联盟音乐节,
-
-北京频道,#genre#
-北京国际,
-北京文艺,
-北京体育休闲,
-北京影视,
-淘剧场,
-淘娱乐,
-淘BABY,
-萌宠TV,
-北京4K超清,
-
 更新时间,#genre#
 2025-11-03 00:21:09,
 
@@ -3684,4 +3681,4 @@ JJ斗地主,
 
 # 源中未匹配频道总计: 3328
 
-# 未匹配频道总计: 3329
+# 未匹配频道总计: 3328
