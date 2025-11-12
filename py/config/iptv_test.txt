@@ -1,6 +1,6 @@
 # 未匹配频道报告
 # 以下频道在源中未找到匹配项
-# 生成时间: 2025-11-12 07:14:05
+# 生成时间: 2025-11-12 09:10:32
 
 ## 模板中未匹配的频道（在源中找不到）
 
@@ -457,11 +457,11 @@ CCTV 8K,
 支持作者,
 
 卫视频道,#genre#
+内蒙古蒙语卫视,
 山西卫视,
 陕西卫视,
-中国教育3台,
-内蒙古蒙语卫视,
 上海卫视,
+中国教育3台,
 内蒙古视,
 北京纪实,
 极速汽车,
@@ -855,43 +855,6 @@ AI七宗罪.人工智能三大定律竟有致命漏洞,
 爱真的只是激素吗.当灵魂超脱肉体人类又能否逃离天罚,
 人类永远无法战胜的初代魔王,
 从苏美到波斯.最后的阿努纳奇,
-
-港澳台,#genre#
-澳门卫视,
-Pet Club TV,
-Bloomberg TV Asia,
-HKS,
-Celestial Movies,
-TVB News,
-Good,
-Good 2,
-Beautiful Life TV,
-Supreme Master TV,
-Taiwan Plus TV,
-Genius Go Go Go,
-DaAi 1,
-DaAi 2,
-Dali TV,
-EBC YOYO,
-CTi News,
-FTV News,
-Global News,
-SET iNews,
-TTV News,
-mnews,
-ET Mall 60,
-东森财经新闻,
-Momo 1,
-Momo 2,
-信大,
-NU,
-NU2,
-JP1,
-KPop,
-民视新闻HD,
-
-卫视台,#genre#
-陕西卫视,
 
 央视高清,#genre#
 上海纪实,
@@ -1559,6 +1522,10 @@ viuTV,
 淘BABY,
 萌宠TV,
 北京4K超清,
+
+更新时间,#genre#
+2025-11-12 06:21:56,
+2025-11-12 06:21:55,
 
 Albania,#genre#
 Kanali 7 Ⓢ,
@@ -3560,9 +3527,42 @@ Viaggi – Pluto TV,
 House of Docs – Pluto TV,
 Le vite degli altri – Pluto TV,
 
-更新时间,#genre#
-2025-11-12 06:21:56,
-2025-11-12 06:21:55,
+港澳台,#genre#
+澳门卫视,
+Pet Club TV,
+Bloomberg TV Asia,
+HKS,
+Celestial Movies,
+TVB News,
+Good,
+Good 2,
+Beautiful Life TV,
+Supreme Master TV,
+Taiwan Plus TV,
+Genius Go Go Go,
+DaAi 1,
+DaAi 2,
+Dali TV,
+EBC YOYO,
+CTi News,
+FTV News,
+Global News,
+SET iNews,
+TTV News,
+mnews,
+ET Mall 60,
+东森财经新闻,
+Momo 1,
+Momo 2,
+信大,
+NU,
+NU2,
+JP1,
+KPop,
+民视新闻HD,
+
+卫视台,#genre#
+陕西卫视,
 
 儿童频道,#genre#
 靖洋卡通,
